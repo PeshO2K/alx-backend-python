@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 6's module.
+'''Modules to sum list of int and f-p numbers
 '''
 from typing import List, Union
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 9's module.
+'''Module to compute sequence length
 '''
 from typing import Iterable, List, Sequence, Tuple
 

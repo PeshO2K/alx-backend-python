@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 12's module.
+'''Module to create copy of item in a tuple
 '''
 from typing import List, Tuple
 

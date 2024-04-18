@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 5's module.
+'''Module to sum list of floating point numbers
 '''
 from typing import List
 

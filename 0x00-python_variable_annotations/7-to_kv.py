@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 7's module.
+'''Module to convert key, value to tuple
 '''
 from typing import Union, Tuple
 
